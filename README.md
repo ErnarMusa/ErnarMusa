@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ErnarMusa
-- 👀 I’m interested in-javascript css html all frontend after backend
+- 👀 I’m interested in-javascript css html all frontend 
 - 🌱 I’m currently learning-js css html after python or java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
